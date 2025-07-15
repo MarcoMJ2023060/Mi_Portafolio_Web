@@ -96,7 +96,7 @@ const Proyects = () => {
       name: "Mi portafolio web",
       description:
         "En este apartado podras encontrar el codigo de este mismo proyecto donde utilicé principalmente React y Tailwind",
-      url: "",
+      url: "https://github.com/MarcoMJ2023060/Mi_Portafolio_Web.git",
     },
   ];
   return (
