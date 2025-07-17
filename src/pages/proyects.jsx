@@ -22,12 +22,12 @@ const Proyects = () => {
     },
     {
       img: [
-        "https://bambu-mobile.com/wp-content/uploads/2022/07/Tipos-de-datos-MySQL-datos-que-almacenan-los-gestores-de-bases-de-datos-datos-numericos-fechas-Bambu-Mobile.png",
+        "https://crehana-blog.imgix.net/media/filer_public/76/e0/76e09e74-c3bc-436e-8dd1-218d70842551/blog.jpg",
       ],
-      name: "XMARCSMINISUPERMARKET MySQL-Java",
+      name: "XMARCS-STUDIO",
       description:
-        "Este proyecto se basa en un sistema de control en ventas de comida donde puedo considerar un gran trabajo la base de datos mi utilizando en  mi caso una Db relacional como en este caso MySQL",
-      url: "https://github.com/MarcoMJ2023060/XMARCSMINISUPERMARKTX.git",
+        "Este proyecto es una pagina web que hice mientras estaba aburrido trata acerca de videojuegos",
+      url: "https://github.com/MarcoMJ2023060/XMARCS-STUDIO.git",
     },
     {
       img: [
@@ -97,6 +97,13 @@ const Proyects = () => {
       description:
         "En este apartado podras encontrar el codigo de este mismo proyecto donde utilicé principalmente React y Tailwind",
       url: "https://github.com/MarcoMJ2023060/Mi_Portafolio_Web.git",
+    },
+        {
+      img: ["https://phoenixnap.com/glossary/wp-content/uploads/2024/06/what-is-java.jpg"],
+      name: "Proyecto final final 2023",
+      description:
+        "En este apartado podras encontrar el codigo de este proyecto que realize como prueba final en 4to perito utilice java y mysql",
+      url: "https://github.com/MarcoMJ2023060/EXAMEN_FINALBIMIV_2023.git",
     },
   ];
   return (
