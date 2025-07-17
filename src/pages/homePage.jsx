@@ -149,19 +149,50 @@ const HomePage = () => {
               </Button>
             </a>
           </div>
-          <div className="w-full flex justify-center mt-8">
-            <section className="max-w-2xl w-full text-center">
-              <h2 className="text-2xl font-bold mb-4" style={{ color: "#2196f3" }}>
-                ¡BIENVENID@S A MI PORTAFOLIO!
-              </h2>
-              <p className="text-lg" style={{ color: "#2196f3" }}>
-                Aquí podrás conocer más sobre mí, sobre mis proyectos y mi experiencia en
-                desarrollo web.  Puedes explorar mis trabajos, puedes descarga mi CV y 
-                descubrir cómo puedo aportar a tu equipo o proyectos.
-                <br />
-                <br />
-                ¡GRACIAS POR PASARTE POR MI PORTAFOLIO!
-              </p>
+          {/* Apartado de Bienvenida */}
+          <div className="w-full flex justify-center mt-[3rem]">
+            <section className="max-w-4xl w-full bg-[#161513] rounded-lg shadow-2xl p-8 mx-4">
+              <div className="text-center mb-6">
+                <h2 className="text-3xl sm:text-4xl font-extrabold text-[#2196f3] mb-4">
+                  ¡BIENVENID@S A MI PORTAFOLIO!
+                </h2>
+                <div className="w-20 h-1 bg-gradient-to-r from-[#00CED1] to-[#0E3386] mx-auto mb-6"></div>
+              </div>
+              
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div className="space-y-4">
+                  <h3 className="text-xl font-semibold text-white mb-3">
+                    🔎¿Qué vas a encontrar aquí?🔍
+                  </h3>
+                  <p className="text-gray-300 leading-relaxed text-justify">
+                    Encontraras mi trayectoria desde 4to perito donde empezaron mis primeros pasos en el desarrollo 
+                    web hasta mis proyectos más recientes. Cada trabajo refleja mi pasión por 
+                    crear soluciones innovadoras y funcionales.
+                  </p>
+                </div>
+                <div className="space-y-4">
+                  <h3 className="text-xl font-semibold text-white mb-3">
+                     🎯Mi Enfoque🎯
+                  </h3>
+                  <p className="text-gray-300 leading-relaxed text-justify">
+                    Me especializo en el desarrollo frontend con React y desarrollo backend con Node.js, 
+                    siempre buscando las mejores prácticas de desarrollo y tecnologías emergentes para 
+                    ofrecer experiencias de usuario excepcionales.
+                  </p>
+                </div>
+              </div>
+              
+              <div className="mt-8 text-center">
+                <p className="text-lg text-[#2196f3] font-medium mb-4">
+                  🧐¿Estas listo para conocer mi trabajo?✔️
+                </p>
+                <div className="flex justify-center">
+                  <p className="text-gray-400 text-justify max-w-2xl">
+                    Descarga mi CV, explora mis proyectos y descubre cómo puedo aportar 
+                    valor a tu equipo o proyectos. ¡Gracias por pasar por este portafolio!
+                  </p>
+                </div>
+              </div>
             </section>
           </div>
         </div>

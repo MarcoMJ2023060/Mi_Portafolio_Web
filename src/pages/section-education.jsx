@@ -42,6 +42,17 @@ const SectionEducation = () => {
                 Cisco Networking Academy
               </h2>
             </div>
+             <div className="p-4 md:w-1/3 flex">
+              <div className="w-[5rem] h-[5rem] inline-flex items-center justify-center mb-4 flex-shrink-0">
+                <img
+                  src="https://i.postimg.cc/ZYx6wb0L/imagen-2025-07-17-155713012.png"
+                  alt=""
+                />
+              </div>
+              <h2 className="text-white text-lg title-font font-medium mb-2">
+                 Liceo Cristiano Hispanoamericano
+              </h2>
+            </div>
           </div>
         </div>
       </section>
