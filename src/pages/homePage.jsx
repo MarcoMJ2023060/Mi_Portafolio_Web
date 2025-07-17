@@ -149,6 +149,21 @@ const HomePage = () => {
               </Button>
             </a>
           </div>
+          <div className="w-full flex justify-center mt-8">
+            <section className="max-w-2xl w-full text-center">
+              <h2 className="text-2xl font-bold mb-4" style={{ color: "#2196f3" }}>
+                ¡BIENVENID@S A MI PORTAFOLIO!
+              </h2>
+              <p className="text-lg" style={{ color: "#2196f3" }}>
+                Aquí podrás conocer más sobre mí, sobre mis proyectos y mi experiencia en
+                desarrollo web.  Puedes explorar mis trabajos, puedes descarga mi CV y 
+                descubrir cómo puedo aportar a tu equipo o proyectos.
+                <br />
+                <br />
+                ¡GRACIAS POR PASARTE POR MI PORTAFOLIO!
+              </p>
+            </section>
+          </div>
         </div>
       </div>
       {showButton && (
