@@ -17,76 +17,85 @@ export const Skills = () => {
       name: "JavaScript",
       url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s",
       size: "w-20 h-20",
+      porcentaje: "90%",
     },
     {
       name: "HTML",
       url: "https://cdn-icons-png.flaticon.com/512/732/732212.png",
       size: "w-20 h-20",
+      porcentaje: "90%",
     },
     {
       name: "CSS",
       url: "https://cdn-icons-png.flaticon.com/512/732/732190.png",
       size: "w-20 h-20",
+      porcentaje: "85%",
     },
     {
       name: "React",
       url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
       size: "w-24 h-24",
+      porcentaje: "80%",
     },
     {
       name: "NodeJs",
       url: "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png",
       size: "w-20 h-20",
+      porcentaje: "90%",
     },
     {
       name: "taiwlind",
       url: "https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--open-source-framework-code-logos-and-brands-pack-icons-9325303.png",
       size: "w-24 h-24",
+      porcentaje: "50%",
     },
     {
       name: "Boostrap",
       url: "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
       size: "w-28 h-24",
+      porcentaje: "60%",
     },
     {
       name: "MySQL",
       url: "https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png",
       size: "w-20 h-20",
+      porcentaje: "85%",
     },
     {
       name: "SQL",
       url: "https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png",
       size: "w-20 h-20",
+      porcentaje: "50%",
     },
     {
       name: "MONGO DB",
       url: "https://e1.pxfuel.com/desktop-wallpaper/35/74/desktop-wallpaper-mongodb-replication-in-ubuntu-mongodb.jpg",
       size: "w-20 h-20",
+      porcentaje: "90%",
     },
     {
       name: "VERCEL",
       url: "https://images.ctfassets.net/crb83veve8xb/2YfNwMlyl1U0DLVXRgL8TB/9e8474e083f2ba01a296343d84f2282d/vercel_thumbnail.webp",
       size: "w-20 h-20",
+      porcentaje: "85%",
     },
     {
       name: "AWS",
       url: "https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256",
       size: "w-20 h-20",
-    },
-    {
-      name: "HTML5",
-      url: "https://img.icons8.com/m_sharp/200/FFFFFF/github.png",
-      size: "w-24 h-24",
+      porcentaje: "50%",
     },
     {
       name: "GitHub",
-      url: "https://img.icons8.com/color/480/github--v1.png",
+      url: "https://img.icons8.com/m_sharp/200/FFFFFF/github.png",
       size: "w-24 h-24",
+      porcentaje: "95%",
     },
     {
       name: "Git",
       url: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
       size: "w-20 h-20",
+      porcentaje: "90%",
     },
   ];
 
@@ -95,6 +104,7 @@ export const Skills = () => {
       name: "Netlify",
       url: "https://www.rlogical.com/wp-content/uploads/2023/03/31d.webp",
       size: "w-20 h-20",
+      porcentaje: "50%",
     },
   ];
   return (
@@ -116,13 +126,14 @@ export const Skills = () => {
               {skills.map((skill) => (
                 <div
                   key={skill.name}
-                  className={`flex items-center justify-center ${skill.size}`}
+                  className={`flex flex-col items-center justify-center ${skill.size}`}
                 >
                   <img
                     src={skill.url}
                     alt={skill.name}
-                    className="object-contain"
+                    className="object-contain mb-2"
                   />
+                  <span className="text-white font-bold text-sm">{skill.porcentaje}</span>
                 </div>
               ))}
             </div>
@@ -137,13 +148,14 @@ export const Skills = () => {
               {skillsLearning.map((skill) => (
                 <div
                   key={skill.name}
-                  className={`flex items-center justify-center ${skill.size}`}
+                  className={`flex flex-col items-center justify-center ${skill.size}`}
                 >
                   <img
                     src={skill.url}
                     alt={skill.name}
-                    className="object-contain"
+                    className="object-contain mb-2"
                   />
+                  <span className="text-white font-bold text-sm">{skill.porcentaje}</span>
                 </div>
               ))}
             </div>
