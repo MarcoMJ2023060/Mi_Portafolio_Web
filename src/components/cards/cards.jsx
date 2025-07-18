@@ -3,6 +3,16 @@ import { Skills } from "../skills/skills-tecnologys";
 
 const Cards = () => {
   const cards = [
+     {
+      img: [
+        "https://i.postimg.cc/W1swwD2j/imagen-2025-07-17-175620941.png",
+      ],
+      name: "XMARCS-STUDIO",
+      description:
+        "Pagina web que simula la pagina de electronic arts(EA)",
+      url: "https://github.com/MarcoMJ2023060/XMARCS-STUDIO.git",
+      technologies: ["HTML", "CSS"]
+    },
     {
       img: [
         "https://i.postimg.cc/pTWxJJmx/imagen-2025-07-17-170717799.png",
