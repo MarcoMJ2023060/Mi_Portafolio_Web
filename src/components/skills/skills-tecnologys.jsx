@@ -133,7 +133,8 @@ export const Skills = () => {
                     alt={skill.name}
                     className="object-contain mb-2"
                   />
-                  <span className="text-white font-bold text-sm">{skill.porcentaje}</span>
+                  <span className="text-white font-bold text-sm text-center">{skill.name}</span>
+                  <span className="text-white font-bold text-xs text-center">{skill.porcentaje}</span>
                 </div>
               ))}
             </div>
@@ -153,7 +154,8 @@ export const Skills = () => {
                     alt={skill.name}
                     className="object-contain mb-2"
                   />
-                  <span className="text-white font-bold text-sm">{skill.porcentaje}</span>
+                  <span className="text-white font-bold text-sm text-center">{skill.name}</span>
+                  <span className="text-white font-bold text-xs text-center">{skill.porcentaje}</span>
                 </div>
               ))}
             </div>
