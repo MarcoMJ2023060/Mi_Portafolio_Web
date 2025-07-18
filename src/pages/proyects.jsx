@@ -4,7 +4,7 @@ const Proyects = () => {
   const cards = [
     {
       img: [
-        "https://phoenixnap.com/glossary/wp-content/uploads/2024/06/what-is-java.jpg",
+        "https://i.postimg.cc/B62CC21S/imagen-2025-07-17-184636921.png",
       ],
       name: "VIdeojuego luchas",
       description:
@@ -13,7 +13,7 @@ const Proyects = () => {
     },
     {
       img: [
-        "https://phoenixnap.com/glossary/wp-content/uploads/2024/06/what-is-java.jpg",
+        "https://i.postimg.cc/RVgLGSqH/imagen-2025-07-17-185006627.png",
       ],
       name: "Encriptador",
       description:
@@ -31,7 +31,7 @@ const Proyects = () => {
     },
     {
       img: [
-        "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+        "https://i.postimg.cc/DZfzCTSS/imagen-2025-07-17-191027944.png",
       ],
       name: "Blog NodeJs",
       description:
@@ -49,7 +49,7 @@ const Proyects = () => {
     },
     {
       img: [
-        "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+        "https://i.postimg.cc/x1Snx279/imagen-2025-07-17-191647958.png",
       ],
       name: "Gestor opiniones",
       description:
@@ -68,7 +68,7 @@ const Proyects = () => {
 
     {
       img: [
-        "https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg?tx=w_1920,q_auto",
+        "https://i.postimg.cc/Kzd8mg9M/imagen-2025-07-17-192127435.png",
       ],
       name: "ControlAcademico",
       description:
@@ -85,7 +85,9 @@ const Proyects = () => {
       url: "https://github.com/MarcoMJ2023060/LABORATORIO-PRACTICA-SUPERVISADA-IN6BM.git",
     },
     {
-      img: ["https://img-c.udemycdn.com/course/750x422/4022172_e570_3.jpg"],
+      img: [
+        "https://i.postimg.cc/yNx19TtR/imagen-2025-07-17-192515337.png"
+      ],
       name: "Gestor inventario",
       description:
         "Este proyecto se basa del lado del backend de un gestor de inventario se desarrollo utilizando Node js, Mongo db y express",
@@ -99,7 +101,9 @@ const Proyects = () => {
       url: "https://github.com/MarcoMJ2023060/Mi_Portafolio_Web.git",
     },
         {
-      img: ["https://phoenixnap.com/glossary/wp-content/uploads/2024/06/what-is-java.jpg"],
+      img: [
+        "https://i.postimg.cc/t47wNmR9/imagen-2025-07-17-192921582.png"
+      ],
       name: "Proyecto final final 2023",
       description:
         "En este apartado podras encontrar el codigo de este proyecto que realize como prueba final en 4to perito utilice java y mysql",
