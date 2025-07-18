@@ -164,9 +164,7 @@ const HomePage = () => {
                     🔎¿Qué vas a encontrar aquí?🔍
                   </h3>
                   <p className="text-gray-300 leading-relaxed text-justify">
-                    Encontraras mi trayectoria desde 4to perito donde empezaron mis primeros pasos en el desarrollo 
-                    web hasta mis proyectos más recientes. Cada trabajo refleja mi pasión por 
-                    crear soluciones innovadoras y funcionales.
+                    Encontrarás mi trayectoria desde 4to Perito, donde comenzaron mis primeros pasos en el desarrollo web, hasta mis proyectos más recientes. Cada trabajo refleja mi pasión por crear soluciones innovadoras y funcionales.
                   </p>
                 </div>
                 <div className="space-y-4">
@@ -174,21 +172,18 @@ const HomePage = () => {
                      🎯Mi Enfoque🎯
                   </h3>
                   <p className="text-gray-300 leading-relaxed text-justify">
-                    Me especializo en el desarrollo frontend con React y desarrollo backend con Node.js, 
-                    siempre buscando las mejores prácticas de desarrollo y tecnologías emergentes para 
-                    ofrecer experiencias de usuario excepcionales.
+                    Me especializo en el desarrollo frontend con React y en el desarrollo backend con Node.js, siempre buscando las mejores prácticas y tecnologías emergentes para ofrecer experiencias de usuario excepcionales.
                   </p>
                 </div>
               </div>
               
               <div className="mt-8 text-center">
                 <p className="text-lg text-[#2196f3] font-medium mb-4">
-                  🧐¿Estas listo para conocer mi trabajo?✔️
+                  🧐¿Estás listo para conocer mi trabajo?✅
                 </p>
                 <div className="flex justify-center">
                   <p className="text-gray-400 text-justify max-w-2xl">
-                    Descarga mi CV, explora mis proyectos y descubre cómo puedo aportar 
-                    valor a tu equipo o proyectos. ¡Gracias por pasar por este portafolio!
+                   Descarga mi CV, explora mis proyectos y descubre cómo puedo aportar valor a tu equipo o proyectos. ¡Gracias por pasarte por mi portafolio!
                   </p>
                 </div>
               </div>
