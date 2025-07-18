@@ -6,9 +6,9 @@ const Proyects = () => {
       img: [
         "https://i.postimg.cc/B62CC21S/imagen-2025-07-17-184636921.png",
       ],
-      name: "VIdeojuego luchas",
+      name: "Videojuego de luchas",
       description:
-        "Este proyecto se basa en un videojuego de luchas donde se puede jugar con dos jugadores y se desarrollo utilizando POO con java",
+        "Este proyecto se basa en un videojuego de luchas en el que pueden jugar dos jugadores, y se desarrolló utilizando POO con Java.",
       url: "https://github.com/MarcoMJ2023060/VIDEOJUEGO_PELEAS_BIM1_2024.git",
     },
     {
@@ -17,7 +17,7 @@ const Proyects = () => {
       ],
       name: "Encriptador",
       description:
-        "Este proyecto se basa en un encriptador a base de matrices desarrollado con java",
+        "Este proyecto se basa en un encriptador basado en matrices, desarrollado en Java.",
       url: "https://github.com/MarcoMJ2023060/ENCRIPTADORPROJECT.git",
     },
     {
@@ -26,16 +26,16 @@ const Proyects = () => {
       ],
       name: "XMARCS-STUDIO",
       description:
-        "Este proyecto es una pagina web que hice mientras estaba aburrido trata acerca de videojuegos",
+        "Este proyecto es una página web que desarrollé mientras estaba aburrido. Trata sobre videojuegos.",
       url: "https://github.com/MarcoMJ2023060/XMARCS-STUDIO.git",
     },
     {
       img: [
         "https://i.postimg.cc/DZfzCTSS/imagen-2025-07-17-191027944.png",
       ],
-      name: "Blog NodeJs",
+      name: "Blog Node.js",
       description:
-        "Este proyecto se basa en un blog web enfocado por la parte del backend desarrollado principalmente utilizando javaScript y NodeJs",
+        "Este proyecto se basa en un blog web enfocado en la parte del backend, desarrollado principalmente utilizando JavaScript y Node.js.",
       url: "https://github.com/MarcoMJ2023060/NODEJS_BLOG_APRENDIZAJE.git",
     },
     {
@@ -44,25 +44,25 @@ const Proyects = () => {
       ],
       name: "Blog React",
       description:
-        "Este proyecto se basa en un blog web enfocado por la parte del Frontend desarrollado principalmente utilizando el fremwork de React para el diseño en componentes",
+        "Este proyecto se basa en un blog web enfocado en la parte del frontend, desarrollado principalmente utilizando el framework de React para el diseño basado en componentes.",
       url: "https://github.com/MarcoMJ2023060/REACT_BLOG_APRENDIZAJE.git",
     },
     {
       img: [
         "https://i.postimg.cc/x1Snx279/imagen-2025-07-17-191647958.png",
       ],
-      name: "Gestor opiniones",
+      name: "Gestor de opiniones",
       description:
-        "Este proyecto fue desarrollado en la parte Backend sin interfaz y se basa en un gestor de opiniones de usuario, se desarrollo con NodeJs y javaScript",
+        "Este proyecto fue desarrollado en la parte backend sin interfaz y se basa en un gestor de opiniones de usuario, se desarrolló con Node.js y JavaScript.",
       url: "https://github.com/MarcoMJ2023060/PS_GESTOR_OPINIONES.git",
     },
     {
       img: [
         "https://crehana-blog.imgix.net/media/filer_public/76/e0/76e09e74-c3bc-436e-8dd1-218d70842551/blog.jpg",
       ],
-      name: "Pagina web",
+      name: "Página web",
       description:
-        "Aca encontraras una pagina Web desarrollado con html5 y css fue uno de los primeros proyectos de practica web incluyendo un rediseño al sitio web de Kinal",
+        "Aquí encontrarás una página web desarrollada con HTML5 y CSS. Fue uno de los primeros proyectos de práctica web, incluyendo un rediseño al sitio web de Kinal.",
       url: "https://github.com/MarcoMJ2023060/LABORATORIO1IN6BM.git",
     },
 
@@ -70,34 +70,34 @@ const Proyects = () => {
       img: [
         "https://i.postimg.cc/Kzd8mg9M/imagen-2025-07-17-192127435.png",
       ],
-      name: "ControlAcademico",
+      name: "Control Académico",
       description:
-        "Este proyecto de igual manera se basa por el lado del backend y se desarrollo utilizando NodeJs y javaScript",
+        "Este proyecto también se basa en el backend y se desarrolló utilizando Node.js y JavaScript.",
       url: "https://github.com/MarcoMJ2023060/Gestion_Academica_PS.git",
     },
     {
       img: [
         "https://blog.interfell.com/hubfs/HTML%2c%20CSS%20y%20JS%20la%20combinacion%20para%20el%20desarrollo%20web.jpg",
       ],
-      name: "Agenda Web",
+      name: "Agenda web",
       description:
-        "Para el desarrollo de esta agenda web utilize tecnologias como Html5, Css3 y JavaScript",
+        "Para el desarrollo de esta agenda web utilicé tecnologías como HTML5, CSS3 y JavaScript.",
       url: "https://github.com/MarcoMJ2023060/LABORATORIO-PRACTICA-SUPERVISADA-IN6BM.git",
     },
     {
       img: [
         "https://i.postimg.cc/yNx19TtR/imagen-2025-07-17-192515337.png"
       ],
-      name: "Gestor inventario",
+      name: "Gestor de inventario",
       description:
-        "Este proyecto se basa del lado del backend de un gestor de inventario se desarrollo utilizando Node js, Mongo db y express",
+        "Este proyecto se basa del lado del backend de un gestor de inventario se desarrollo utilizando Node.js, MongoDB y Express.",
       url: "https://github.com/MarcoMJ2023060/PROYECTO_BIMESTRAL_6TO.git",
     },
     {
       img: ["https://tailwindcss.com/_next/static/media/card.9e9b9cc2.jpg"],
       name: "Mi portafolio web",
       description:
-        "En este apartado podras encontrar el codigo de este mismo proyecto donde utilicé principalmente React y Tailwind",
+        "En este apartado podrás encontrar el código de este mismo proyecto donde utilicé principalmente React y Tailwind.",
       url: "https://github.com/MarcoMJ2023060/Mi_Portafolio_Web.git",
     },
         {
@@ -106,7 +106,7 @@ const Proyects = () => {
       ],
       name: "Proyecto final final 2023",
       description:
-        "En este apartado podras encontrar el codigo de este proyecto que realize como prueba final en 4to perito utilice java y mysql",
+        "En este apartado podrás encontrar el código de este proyecto que realicé como prueba final en 4to Perito. Utilicé Java y MySQL.",
       url: "https://github.com/MarcoMJ2023060/EXAMEN_FINALBIMIV_2023.git",
     },
   ];
@@ -143,7 +143,7 @@ const Proyects = () => {
                       rel="noopener noreferrer"
                       className="text-black hover:underline"
                     >
-                      VER CODIGO
+                      VER CÓDIGO
                     </a>
                   </div>
                 )}
