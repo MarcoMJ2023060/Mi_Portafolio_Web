@@ -19,26 +19,25 @@ export const SkillsBlond = () => {
         id="routerContact"
       >
         <div className="container px-6 py-10 mx-auto max-[1200px]:text-[13px]">
-          <h2 className="text-3xl mb-6 text-center sm:text-4xl lg:text-5xl font-extrabold text-black">
-            Habilidades Blandas
+          <h2 className="text-3xl mb-6 text-center sm:text-4xl lg:text-5xl font-extrabold text-white">
+            Blond Skills
           </h2>
-
-          <div className="grid grid-cols-1 min-[1000px]:grid-cols-4 gap-8 text-left">
-            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl ">
-              {iconFlextion()}Adaptabilidad
-            </h1>
-            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl ">
-              {iconFlextion()}Capacidad de aprendizaje
-            </h1>
-            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl ">
-              {iconFlextion()}Trabajo en equipo
-            </h1>
-            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl ">
-              {iconFlextion()}Creatividad
-            </h1>
-            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl ">
-              {iconFlextion()}Ética laboral
-            </h1>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 justify-items-center">
+            <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
+              <span className="text-2xl font-semibold text-white flex items-center">{iconFlextion()}<span className="ml-2">Adaptabilidad</span></span>
+            </div>
+            <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
+              <span className="text-2xl font-semibold text-white flex items-center">{iconFlextion()}<span className="ml-2">Capacidad de aprendizaje</span></span>
+            </div>
+            <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
+              <span className="text-2xl font-semibold text-white flex items-center">{iconFlextion()}<span className="ml-2">Trabajo en equipo</span></span>
+            </div>
+            <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
+              <span className="text-2xl font-semibold text-white flex items-center">{iconFlextion()}<span className="ml-2">Creatividad</span></span>
+            </div>
+            <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
+              <span className="text-2xl font-semibold text-white flex items-center">{iconFlextion()}<span className="ml-2">Ética laboral</span></span>
+            </div>
           </div>
         </div>
       </section>

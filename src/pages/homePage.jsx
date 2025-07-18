@@ -87,10 +87,10 @@ const HomePage = () => {
               className="h-[100%] w-[17rem] object-cover"
             />
           </div>
-          <div>
+          <div className="flex justify-center w-full">
             <h1
               ref={textRef}
-              className="max-w-screen-md text-[2rem] sm:text-4xl lg:text-5xl font-extrabold text-white mb-4 sm:mb-6"
+              className="max-w-screen-md text-[2rem] sm:text-4xl lg:text-5xl font-extrabold text-white mb-4 sm:mb-6 text-center"
             ></h1>
           </div>
           <div className="mt-[2rem]">
@@ -149,7 +149,6 @@ const HomePage = () => {
               </Button>
             </a>
           </div>
-          {/* Apartado de Bienvenida */}
           <div className="w-full flex justify-center mt-[3rem]">
             <section className="max-w-4xl w-full bg-[#161513] rounded-lg shadow-2xl p-8 mx-4">
               <div className="text-center mb-6">
