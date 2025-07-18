@@ -28,7 +28,7 @@ const SectionEducation = () => {
                 />
               </div>
               <h2 className="text-white text-lg title-font font-medium mb-2">
-                Kinal
+                Centro Educativo Tecnico Laboral Kinal
               </h2>
             </div>
             <div className="p-4 md:w-1/3 flex">
