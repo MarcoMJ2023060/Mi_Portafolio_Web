@@ -15,6 +15,16 @@ const Cards = () => {
     },
     {
       img: [
+        "https://i.postimg.cc/g2RqpvNv/imagen-2025-07-17-193656621.png",
+      ],
+      name: "Pagina web y rediseño de Kinal",
+      description:
+        "Para el desarrollo de esta pagina web y rediseño del sitio web KINAL utilicé tecnologías básicas como HTML, CSS y JavaScript.",
+      url: "https://github.com/MarcoMJ2023060/LABORATORIO1IN6BM.git",
+      technologies: ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      img: [
         "https://i.postimg.cc/pTWxJJmx/imagen-2025-07-17-170717799.png",
       ],
       name: "Agenda Web",
