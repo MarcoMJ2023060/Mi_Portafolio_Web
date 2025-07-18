@@ -34,7 +34,7 @@ const AboutMe = () => {
               <h3 className="text-2xl mb-5 font-bold text-center">📌Frase📌</h3>
               <p className="leading-10 text-gray-500 text-2xl max-[750px]:text-[17px] text-justify">
                 <span className="font-bold text-gray-800">
-                 ➤ "Ningún sueño es tan grande, y ningún soñador tan pequeño"
+                 ➤ "Ningún sueño es tan grande, ni ningún soñador tan pequeño."
                 </span>
                 <br />
                 <br />
@@ -44,48 +44,38 @@ const AboutMe = () => {
               </h3>
               <p className="leading-10 text-gray-500 text-2xl max-[750px]:text-[17px] text-justify">
                 <span className="font-bold text-gray-800">
-                 ➤ Significa que no existe ningún sueño grande que sea imposible
-                  de conseguir, ningún soñador pequeño, nos habla acerca de que
-                  todos tenemos la capacidad de conseguir los sueños "grandes".
+                 ➤ Significa que no existe ningún sueño tan grande que sea imposible de conseguir, ni ningún soñador tan pequeño; nos habla acerca de que todos tenemos la capacidad de alcanzar los sueños "grandes".
                 </span>
                 <br />
                 <br />
               </p>
               <h3 className="text-2xl mb-5 font-bold text-gray-800 text-center">
-               🙋🏻‍♂️ Acerca de mi 🙋🏻‍♂️
+               🙋🏻‍♂️ Acerca de mí 🙋🏻‍♂️
               </h3>
               <p className="leading-10 text-gray-500 text-2xl max-[750px]:text-[17px] text-justify">
                 <span className="font-bold text-gray-800">
-                ➤  ¡Hola! Soy Marco Jose Bolaños, desarrollador junior
-                  actualmente tengo 18 años de edad, soy un apasionado por la
-                  tecnología.
+                ➤  ¡Hola! Soy Marco José Bolaños, desarrollador junior. Actualmente tengo 18 años y soy un apasionado por la tecnología.
                 </span>
                 <br />
                 <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Desde pequeño he sido muy curioso y me ha fascinado aprender
-                  constantemente y descubrir cómo funcionan las cosas. Me
-                  considero un joven entusiasta, siempre buscando mejorar día a
-                  día.
+                 ➤ Desde pequeño he sido muy curioso y me ha fascinado aprender constantemente y descubrir cómo funcionan las cosas. Me considero un joven entusiasta, siempre en busca de mejorar día a día.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Actualmente curso perito en informática en KINAL, combino los
-                  conocimientos adquiridos durante estos 2 años y siete meses de
-                  carrera.
+                 ➤ Soy estudiante del Centro Educativo Técnico Laboral KINAL.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Soy estudiante de Perito en Computación en el Centro Educativo
-                  Técnico Laboral Kinal
+                 ➤ Actualmente curso Perito en Informática en KINAL y combino los conocimientos adquiridos durante estos dos años y siete meses de carrera.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Experiencia en React y Node JS
+                 ➤ Poseo experiencia en el desarrollo de aplicaciones utilizando React para el frontend y Node.js para el backend.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                ➤  Experiencia en accesibilidad web y en experiencia de usuario
+                ➤  Experiencia en accesibilidad web y en experiencia de usuario (UX).
                   (UX)
                 </span>
                 <br /> <br />
@@ -94,7 +84,7 @@ const AboutMe = () => {
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                ➤  Años Desarrollando: 2 años 7 meses
+                ➤  Años desarrollando: 2 años y 7 meses🛠️
                 </span>
               </p>
             </div>
