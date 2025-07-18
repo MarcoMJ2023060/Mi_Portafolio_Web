@@ -9,7 +9,7 @@ const Cards = () => {
       ],
       name: "XMARCS-STUDIO",
       description:
-        "Pagina web que simula la pagina de electronic arts(EA)",
+        "Página web que simula la página de Electronic Arts (EA).",
       url: "https://github.com/MarcoMJ2023060/XMARCS-STUDIO.git",
       technologies: ["HTML", "CSS"]
     },
@@ -19,7 +19,7 @@ const Cards = () => {
       ],
       name: "Pagina web y rediseño de Kinal",
       description:
-        "Para el desarrollo de esta pagina web y rediseño del sitio web KINAL utilicé tecnologías básicas como HTML, CSS y JavaScript.",
+        "Para el desarrollo de esta página web y el rediseño del sitio web de KINAL, utilicé tecnologías básicas como HTML, CSS y JavaScript.",
       url: "https://github.com/MarcoMJ2023060/LABORATORIO1IN6BM.git",
       technologies: ["HTML", "CSS", "JavaScript"]
     },
@@ -29,7 +29,7 @@ const Cards = () => {
       ],
       name: "Agenda Web",
       description:
-        "Para el desarrollo de esta agenda web utilicé tecnologías básicas como HTML, CSS y JavaScript.",
+        "Para el desarrollo de esta agenda web, utilicé tecnologías básicas como HTML, CSS y JavaScript.",
       url: "https://github.com/MarcoMJ2023060/LABORATORIO-PRACTICA-SUPERVISADA-IN6BM.git",
       technologies: ["HTML", "CSS", "JavaScript"]
     },
@@ -39,7 +39,7 @@ const Cards = () => {
       ],
       name: "Blog React",
       description:
-        "Blog web enfocado en el Frontend desarrollado principalmente utilizando el framework de React para el diseño en componentes.",
+        "Blog web enfocado en el frontend, desarrollado principalmente utilizando el framework React para el diseño basado en componentes.",
       url: "https://github.com/MarcoMJ2023060/REACT_BLOG_APRENDIZAJE.git",
       technologies: ["React", "JavaScript"]
     },
@@ -49,7 +49,7 @@ const Cards = () => {
       ],
       name: "Mi Portafolio Web",
       description:
-        "En este apartado podrás encontrar el código de este mismo proyecto donde utilicé principalmente React y Tailwind.",
+        "En este apartado podrás encontrar el código de este proyecto, en el cual utilicé principalmente React y Tailwind.",
       url: "https://github.com/MarcoMJ2023060/Mi_Portafolio_Web.git",
       technologies: ["React", "Tailwind CSS", "JavaScript"]
     },
@@ -60,12 +60,11 @@ const Cards = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white mb-4">
-              Vista de Mis Proyectos
+              Vista de mis Proyectos
             </h2>
             <div className="w-20 h-1 bg-gradient-to-r from-[#00CED1] to-[#0E3386] mx-auto mb-6"></div>
             <p className="text-gray-300 text-lg max-w-2xl mx-auto">
-              Explora una selección de mis proyectos con interfaz gráfica, donde he utilizado diferentes tecnologías
-              patrones de diseño, metodologías de desarrollo para crear soluciones innovadoras.
+              Explora una selección de mis proyectos con interfaz gráfica, donde he utilizado diversas tecnologías, patrones de diseño y metodologías de desarrollo para crear soluciones innovadoras.
             </p>
           </div>
           
