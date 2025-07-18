@@ -1,6 +1,5 @@
 import React from "react";
 import HowToRegIcon from "@mui/icons-material/HowToReg";
-import SectionEducation from "../../pages/section-education";
 import { SkillsBlond } from "./skills-blond";
 
 const iconFlextion = () => {
@@ -39,19 +38,19 @@ export const Skills = () => {
       porcentaje: "80%",
     },
     {
-      name: "NodeJs",
+      name: "Node.js",
       url: "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png",
       size: "w-20 h-20",
       porcentaje: "90%",
     },
     {
-      name: "taiwlind",
+      name: "Tailwind CSS",
       url: "https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--open-source-framework-code-logos-and-brands-pack-icons-9325303.png",
       size: "w-24 h-24",
       porcentaje: "50%",
     },
     {
-      name: "Boostrap",
+      name: "Bootstrap",
       url: "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
       size: "w-28 h-24",
       porcentaje: "60%",
@@ -69,13 +68,13 @@ export const Skills = () => {
       porcentaje: "50%",
     },
     {
-      name: "MONGO DB",
+      name: "MongoDB",
       url: "https://e1.pxfuel.com/desktop-wallpaper/35/74/desktop-wallpaper-mongodb-replication-in-ubuntu-mongodb.jpg",
       size: "w-20 h-20",
       porcentaje: "90%",
     },
     {
-      name: "VERCEL",
+      name: "Vercel",
       url: "https://images.ctfassets.net/crb83veve8xb/2YfNwMlyl1U0DLVXRgL8TB/9e8474e083f2ba01a296343d84f2282d/vercel_thumbnail.webp",
       size: "w-20 h-20",
       porcentaje: "85%",
