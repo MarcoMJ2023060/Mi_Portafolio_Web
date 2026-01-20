@@ -63,11 +63,11 @@ const AboutMe = () => {
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Soy estudiante del Centro Educativo Técnico Laboral KINAL.
+                 ➤ Actualmente soy estudiante de la Universidad Mariano Galvez de Guatemala.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                 ➤ Actualmente curso Perito en Informática en KINAL y combino los conocimientos adquiridos durante estos dos años y siete meses de carrera.
+                 ➤ Actualmente curso Ingenieria en Sistemas y soy Perito en Informática egresado de Kinal combino los conocimientos adquiridos durante estos dos años y siete meses de carrera.
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
@@ -76,7 +76,7 @@ const AboutMe = () => {
                 <br /> <br />
                 <span className="font-bold text-gray-800">
                 ➤  Experiencia en accesibilidad web y en experiencia de usuario (UX).
-                  (UX)
+                  (Ui)
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
@@ -84,7 +84,7 @@ const AboutMe = () => {
                 </span>
                 <br /> <br />
                 <span className="font-bold text-gray-800">
-                ➤  Años desarrollando: 2 años y 7 meses🛠️
+                ➤  Años desarrollando: 3 años🛠️
                 </span>
               </p>
             </div>

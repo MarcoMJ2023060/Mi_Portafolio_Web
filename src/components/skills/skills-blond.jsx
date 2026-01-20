@@ -20,7 +20,7 @@ export const SkillsBlond = () => {
       >
         <div className="container px-6 py-10 mx-auto max-[1200px]:text-[13px]">
           <h2 className="text-3xl mb-6 text-center sm:text-4xl lg:text-5xl font-extrabold text-white">
-            Blond Skills
+            Soft Skills
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 justify-items-center">
             <div className="flex flex-col items-center bg-[#232323] rounded-xl shadow-lg p-4 w-full max-w-[180px] min-h-[120px] justify-center">
